@@ -1,0 +1,1 @@
+Letakkan foto Anda di folder ini dengan nama foto-profil.jpg. File foto tidak disertakan.
