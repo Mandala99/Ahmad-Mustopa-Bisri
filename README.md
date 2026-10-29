@@ -29,7 +29,3 @@ Pastikan Anda nyaman membagikan nama, foto, dan informasi profil. Hindari mencan
 
 ## Mengedit teks
 Buka `index.html` dengan Notepad atau Visual Studio Code, ubah teks yang diinginkan, lalu simpan. Pertahankan tag HTML seperti `<p>`, `<section>`, dan tag penutupnya.
-
-
-## Pembaruan profil
-Website ini juga memuat bagian **Harapan & Kriteria Pasangan**, berisi lima poin yang diberikan untuk membantu menjelaskan harapan dalam proses ta'aruf.
